@@ -1,0 +1,29 @@
+name: Base Ecosystem Monitor
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: cd BASE-MONITOR && npm install
+
+      - name: Run Base Monitor
+        run: cd BASE-MONITOR && node monitor.js
+
+      - name: Commit results
+        run: |
+          git config user.name "demarco2016"
+          git config user.email "demarco2016@users.noreply.github.com"
+          git add BASE-MONITOR/logs/ BASE-MONITOR/tracked_projects.json
+          git commit --allow-empty -m "Base monitor report $(date +%Y-%m-%d)"
+          git push
