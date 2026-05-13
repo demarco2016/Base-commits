@@ -21,9 +21,16 @@ jobs:
         run: cd BASE-MONITOR && node monitor.js
 
       - name: Commit results
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "demarco2016"
           git config user.email "demarco2016@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/demarco2016/Base-commits.git
           git add BASE-MONITOR/logs/ BASE-MONITOR/tracked_projects.json
-          git commit --allow-empty -m "Base monitor report $(date +%Y-%m-%d)"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Base monitor report $(date +%Y-%m-%d)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
