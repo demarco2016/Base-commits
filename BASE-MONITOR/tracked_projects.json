@@ -1,0 +1,1567 @@
+{
+  "tracked": [
+    {
+      "name": "Aerodrome Slipstream",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.354Z",
+      "url": "https://aerodrome.finance/"
+    },
+    {
+      "name": "Aerodrome V1",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.354Z",
+      "url": "https://aerodrome.finance/"
+    },
+    {
+      "name": "Avantis",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.354Z",
+      "url": "https://www.avantisfi.com/referral?code=DefiLlama"
+    },
+    {
+      "name": "Aerodrome Ignition",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.354Z",
+      "url": "https://aerodrome.finance/"
+    },
+    {
+      "name": "Anthias Labs",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.354Z",
+      "url": "https://anthias.xyz"
+    },
+    {
+      "name": "T RIZE",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.355Z",
+      "url": "https://www.t-rize.io"
+    },
+    {
+      "name": "Hydrex Integral",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.355Z",
+      "url": "https://www.hydrex.fi?anchorRef=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10"
+    },
+    {
+      "name": "Sport.fun",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.355Z",
+      "url": "https://pro.sport.fun/login/?referral_code=UBJWCCSWOVU"
+    },
+    {
+      "name": "SoSoValue Basis",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.355Z",
+      "url": "https://ssi.sosovalue.com/share/MAG7.ssi/0TC050BY?tid=ssi-invite-share-0TC050BY"
+    },
+    {
+      "name": "Seamless Vaults",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.356Z",
+      "url": "https://www.seamlessprotocol.com"
+    },
+    {
+      "name": "flaunch",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.356Z",
+      "url": "https://flaunch.gg"
+    },
+    {
+      "name": "friend.tech V1",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.356Z",
+      "url": "https://www.friend.tech"
+    },
+    {
+      "name": "iAero Protocol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.356Z",
+      "url": "https://app.iaero.finance/"
+    },
+    {
+      "name": "Hydrex Omni",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.356Z",
+      "url": "https://www.hydrex.fi?anchorRef=0x798fF1e6D7AFd28c333eE6eBe03125d30ec6eF10"
+    },
+    {
+      "name": "Ethos Network",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.356Z",
+      "url": "https://ethos.network/"
+    },
+    {
+      "name": "Alien Base V3",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.356Z",
+      "url": "https://alienbase.xyz"
+    },
+    {
+      "name": "Sprinter",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.356Z",
+      "url": "https://sprinter.tech/"
+    },
+    {
+      "name": "Seamless V1",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.356Z",
+      "url": "https://www.seamlessprotocol.com"
+    },
+    {
+      "name": "Extra Finance Vaults",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.356Z",
+      "url": "https://app.extrafi.io/"
+    },
+    {
+      "name": "Trueo",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.357Z",
+      "url": "https://trueo.com/"
+    },
+    {
+      "name": "YieldSeeker",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.357Z",
+      "url": "https://yieldseeker.xyz"
+    },
+    {
+      "name": "Keeta Bridge",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.357Z",
+      "url": "https://keeta.com/"
+    },
+    {
+      "name": "BaseSwap V2",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.357Z",
+      "url": "BaseSwapDex"
+    },
+    {
+      "name": "Limitless Exchange",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.357Z",
+      "url": "https://limitless.exchange/?r=0UWWSGL92U"
+    },
+    {
+      "name": "RocketSwap Base",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.357Z",
+      "url": "https://app.rocketswap.cc/exchange/swap"
+    },
+    {
+      "name": "Muscadine",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.357Z",
+      "url": "https://muscadine.io"
+    },
+    {
+      "name": "Degen Bridge",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.357Z",
+      "url": "https://bridge.degen.tips"
+    },
+    {
+      "name": "Treble V2",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.357Z",
+      "url": "https://trebleswap.com"
+    },
+    {
+      "name": "Alien Base V2",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.358Z",
+      "url": "https://alienbase.xyz/"
+    },
+    {
+      "name": "Snowbl Capital",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.358Z",
+      "url": "https://snowbl.capital"
+    },
+    {
+      "name": "Scale",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.358Z",
+      "url": "https://base.equalizer.exchange"
+    },
+    {
+      "name": "Ethos Markets",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.358Z",
+      "url": "https://ethos.markets/"
+    },
+    {
+      "name": "BaseVol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.358Z",
+      "url": "https://www.basevol.com"
+    },
+    {
+      "name": "RAGE Protocol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.358Z",
+      "url": "https://ultraroundmoney.com/rage"
+    },
+    {
+      "name": "Bass Exchange",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.358Z",
+      "url": "Bass_Exchange"
+    },
+    {
+      "name": "8lends",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.358Z",
+      "url": "https://app.8lends.io"
+    },
+    {
+      "name": "Thirdfy",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.358Z",
+      "url": "https://thirdfy.com/"
+    },
+    {
+      "name": "Peer",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": "https://www.peer.xyz/"
+    },
+    {
+      "name": "Treble Spot",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": "https://trebleswap.com"
+    },
+    {
+      "name": "GammaSwap Yield Tokens",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": "https://app.gammaswap.com/yield-tokens"
+    },
+    {
+      "name": "g8keep",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": "https://www.g8.xyz"
+    },
+    {
+      "name": "SharkSwap DEX",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": "SharkSwapDEX"
+    },
+    {
+      "name": "Bullbit PERP DEX",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": "http://bullbit.ai/"
+    },
+    {
+      "name": "InfinityPools",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": "https://infinitypools.finance/"
+    },
+    {
+      "name": "ZebraDAO",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": "ZebraLending"
+    },
+    {
+      "name": "Tizi",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": " "
+    },
+    {
+      "name": "Superfund",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": "https://funds.superlend.xyz/"
+    },
+    {
+      "name": "Flat Money V1",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": "https://flat.money"
+    },
+    {
+      "name": "SwapBased AMM",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.359Z",
+      "url": "https://swapbased.finance"
+    },
+    {
+      "name": "Virtus Protocol CL",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "https://virtus-protocol.com"
+    },
+    {
+      "name": "Autopilot",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "https://theautopilot.xyz/app"
+    },
+    {
+      "name": "Infusion",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "infusionfinance"
+    },
+    {
+      "name": "BunnySwap",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "https://www.friend.tech/"
+    },
+    {
+      "name": "CookieBase Farm",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "base_cookie"
+    },
+    {
+      "name": "SwapBased Concentrated Liquidity",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "https://swapbased.finance/#/swap"
+    },
+    {
+      "name": "DegenPrime",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "https://www.degenprime.io"
+    },
+    {
+      "name": "BaseX",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "BaseSwapDex"
+    },
+    {
+      "name": "Andromeada",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "andromeada_"
+    },
+    {
+      "name": "time.fun",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "timedotfun"
+    },
+    {
+      "name": "Yield Millionaire",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "https://www.yieldmillionaire.com/"
+    },
+    {
+      "name": "O.LAB",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.360Z",
+      "url": "https://www.olab.xyz/"
+    },
+    {
+      "name": "100XSOON",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "https://100xsoon.com/"
+    },
+    {
+      "name": "Lunarbase",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "https://lunarbase.gg/"
+    },
+    {
+      "name": "CallPut",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "https://callput.app"
+    },
+    {
+      "name": "Fren Pets",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "https://frenpet.xyz/"
+    },
+    {
+      "name": "Sova",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "https://sova.io/"
+    },
+    {
+      "name": "KRAV",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "https://www.rave.trade/"
+    },
+    {
+      "name": "Deli Swap",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "https://deliswap.com/"
+    },
+    {
+      "name": "Throne V3",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "ThroneDEX"
+    },
+    {
+      "name": "Milk Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "https://app.basedmilk.com"
+    },
+    {
+      "name": "Veil Cash",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "https://www.veil.cash/"
+    },
+    {
+      "name": "Xena Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "XenaFinance"
+    },
+    {
+      "name": "Alien Base Area51",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "https://alienbase.xyz"
+    },
+    {
+      "name": "Chainchat",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.361Z",
+      "url": "https://zapper.xyz/chat"
+    },
+    {
+      "name": "SwapBased Perp",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "https://perps.swapbased.finance"
+    },
+    {
+      "name": "scoop",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "https://www.scoopit.lol/"
+    },
+    {
+      "name": "Synthswap V2",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "https://synthswap.io"
+    },
+    {
+      "name": "Words.art",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "wordsdotart"
+    },
+    {
+      "name": "Unblock Equity",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": " "
+    },
+    {
+      "name": "SongTech",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "songtech_"
+    },
+    {
+      "name": "Shinjo",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "https://shinjo.app/"
+    },
+    {
+      "name": "toupee.tech",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "https://www.toupee.tech"
+    },
+    {
+      "name": "Alkimiya",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "alkimiya_io"
+    },
+    {
+      "name": "SharesGram",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "https://twitter.com/SharesGram"
+    },
+    {
+      "name": "Soswap",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "https://soswap.rai.finance"
+    },
+    {
+      "name": "Ripe Protocol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "https://www.ripe.finance/"
+    },
+    {
+      "name": "StableBase",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "stablebasefi"
+    },
+    {
+      "name": "TagDotTech",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.362Z",
+      "url": "tagdottech"
+    },
+    {
+      "name": "Detto Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "DettoFinance"
+    },
+    {
+      "name": "INDX",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "indxsapp"
+    },
+    {
+      "name": "Frensly",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "frenslyio"
+    },
+    {
+      "name": "Simps",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "https://www.simps.com/"
+    },
+    {
+      "name": "Pike V2",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "https://www.pike.finance"
+    },
+    {
+      "name": "Synthswap V3",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "https://synthswap.io"
+    },
+    {
+      "name": "CitadelSwap",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "citadelswap"
+    },
+    {
+      "name": "AlfaFrens",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "alfafrens_"
+    },
+    {
+      "name": "Ducky City SOFI",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "duckycity_io"
+    },
+    {
+      "name": "Precog Market",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "https://core.precog.market/"
+    },
+    {
+      "name": "Phi",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "https://phi.box"
+    },
+    {
+      "name": "Mellow",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "join_mellow"
+    },
+    {
+      "name": "Run Money",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "https://runmoney.app"
+    },
+    {
+      "name": "DIP Exchange",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "DIP_Exchange"
+    },
+    {
+      "name": "Baso Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "Baso_Finance"
+    },
+    {
+      "name": "Alien Base StableSwap",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "https://alienbase.xyz"
+    },
+    {
+      "name": "Drawtech",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "https://www.ihavenofriends.ai/"
+    },
+    {
+      "name": "BaseX Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.363Z",
+      "url": "basex_fi"
+    },
+    {
+      "name": "Voodoo Trade Base",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "https://voodoo.trade"
+    },
+    {
+      "name": "CLAMM",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "https://app.clamm.io"
+    },
+    {
+      "name": "Votre",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "https://www.votre.xyz/"
+    },
+    {
+      "name": "Anon Social",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "AnonSocialTech"
+    },
+    {
+      "name": "Energon DEX",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "EnergonDex"
+    },
+    {
+      "name": "Robots.Farm",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "https://robots.farm"
+    },
+    {
+      "name": "Chedda Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "chedda_finance"
+    },
+    {
+      "name": "Nano Swap",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "NanoswapBase"
+    },
+    {
+      "name": "Glorb",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "https://glorb.wtf"
+    },
+    {
+      "name": "BAS3D",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "https://bas3d.io"
+    },
+    {
+      "name": "Aerostrategy",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "https://www.aerostrategy.finance/"
+    },
+    {
+      "name": "boobs.finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "boobsdotfinance"
+    },
+    {
+      "name": "Hydrometer Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "Hydrometer_Fi"
+    },
+    {
+      "name": "Synthswap Perps",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "https://perps.synthswap.io/#/trade"
+    },
+    {
+      "name": "Global Balanced Liquidity Index",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "GBLIN_Protocol"
+    },
+    {
+      "name": "Subunit",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "https://www.subunit.xyz"
+    },
+    {
+      "name": "Autotronic",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "autotronicbase"
+    },
+    {
+      "name": "NOVIS",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "NOVISdefi"
+    },
+    {
+      "name": "YieldLend",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.364Z",
+      "url": "yieldlend"
+    },
+    {
+      "name": "Nether.Fi",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "netherlabs_"
+    },
+    {
+      "name": "BWSWAP",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "BW_Swap"
+    },
+    {
+      "name": "Particles Money",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "ParticlesMoney"
+    },
+    {
+      "name": "MoonBase",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "moonbase_fi"
+    },
+    {
+      "name": "Swapline V2",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "https://swapline.com"
+    },
+    {
+      "name": "Aeria",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "aeriafinance"
+    },
+    {
+      "name": "Bagelswap",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "GamesCroissant"
+    },
+    {
+      "name": "Vaquita Protocol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "https://www.vaquita.fi/"
+    },
+    {
+      "name": "Clink",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "https://clinkfi.io"
+    },
+    {
+      "name": "BaseFinance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "BaseFinanceLabs"
+    },
+    {
+      "name": "Basin DAO",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "BasinOnBase"
+    },
+    {
+      "name": "IceSwap",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "iceswap_org"
+    },
+    {
+      "name": "Spooky Base",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "SpookyBase"
+    },
+    {
+      "name": "Statix Farm",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "StatixFarm"
+    },
+    {
+      "name": "XBased",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "xbased_xyz"
+    },
+    {
+      "name": "GFEX",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "https://gfex.io"
+    },
+    {
+      "name": "BCraft",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "Basecraftio"
+    },
+    {
+      "name": "Throne V2",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "ThroneDEX"
+    },
+    {
+      "name": "BaseYield",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.365Z",
+      "url": "BAYield"
+    },
+    {
+      "name": "BasaFish",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "https://basafish.network"
+    },
+    {
+      "name": "Phase",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "https://phase.cash"
+    },
+    {
+      "name": "Hits4fun",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "https://hits4.fun/"
+    },
+    {
+      "name": "sedge",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "sedge_fi"
+    },
+    {
+      "name": "FluxusFi",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "FluxusFinance"
+    },
+    {
+      "name": "ChocoBase",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "TheKitchenBase"
+    },
+    {
+      "name": "Based Farm",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "https://based.farm"
+    },
+    {
+      "name": "Floe Labs",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "https://floelabs.xyz"
+    },
+    {
+      "name": "Virtus Protocol AMM",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "https://virtus-protocol.com"
+    },
+    {
+      "name": "SquaDeFi",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "squadefi"
+    },
+    {
+      "name": "Wild Base",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "lodgecapital"
+    },
+    {
+      "name": "Torus",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "torus_farm"
+    },
+    {
+      "name": "Redemption Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "RedemptionFi"
+    },
+    {
+      "name": "PlantBaseSwap",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "PlantBaseSwap"
+    },
+    {
+      "name": "DeFO",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "https://defo.xyz"
+    },
+    {
+      "name": "Ace of Base",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "aceofbase_xyz"
+    },
+    {
+      "name": "Bryan on Base",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "bryanonbase"
+    },
+    {
+      "name": "OhMyCrypt",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "OhMyCrypt_Off"
+    },
+    {
+      "name": "Lucky38",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": " "
+    },
+    {
+      "name": "Velox DEX",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": ""
+    },
+    {
+      "name": "Size Lending",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.366Z",
+      "url": "SizeLending"
+    },
+    {
+      "name": "Base3D",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "BaseChain3D"
+    },
+    {
+      "name": "Snail Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "snail_finance"
+    },
+    {
+      "name": "YFarmer",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": " "
+    },
+    {
+      "name": "HyperSafe",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "hypershares"
+    },
+    {
+      "name": "ZenyDex",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "https://zenydex.com"
+    },
+    {
+      "name": "Defidash Agent",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "https://defidash.net/"
+    },
+    {
+      "name": "Flex Perpetuals",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "https://flex.trade"
+    },
+    {
+      "name": "CookieBase Dex",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "base_cookie"
+    },
+    {
+      "name": "LinkDeFi",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "https://linkdefi.xyz"
+    },
+    {
+      "name": "Laari Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "LaariFinance"
+    },
+    {
+      "name": "UncleSam Protocol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "unclesamfi"
+    },
+    {
+      "name": "Intuition",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "https://www.intuition.systems"
+    },
+    {
+      "name": "BSX Exchange",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "bsx_labs"
+    },
+    {
+      "name": "OnionSwap",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "https://onionswap.site"
+    },
+    {
+      "name": "Stobix",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "https://stobix.com"
+    },
+    {
+      "name": "Stakin",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.367Z",
+      "url": "https://stakin.gg"
+    },
+    {
+      "name": "Magnate Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.368Z",
+      "url": "MagnateFi"
+    },
+    {
+      "name": "CoChilli",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.368Z",
+      "url": "CoChilli_io"
+    },
+    {
+      "name": "EDEBASE",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.368Z",
+      "url": "ede_finance"
+    },
+    {
+      "name": "Basetrade",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.368Z",
+      "url": "basetrade_xyz"
+    },
+    {
+      "name": "Raccoon Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.368Z",
+      "url": "RaccoonYields"
+    },
+    {
+      "name": "Basetasm Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.368Z",
+      "url": "BasetasmFinance"
+    },
+    {
+      "name": "FT33 DAO",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "https://friendtech33.xyz/#/about"
+    },
+    {
+      "name": "NewThrone",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "newthronegg"
+    },
+    {
+      "name": "Spirit Farm",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "spiritfarmapp"
+    },
+    {
+      "name": "Basemax",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "basemaxfi"
+    },
+    {
+      "name": "Pod Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "PodFinance"
+    },
+    {
+      "name": "Dragon Protocol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "dragonbaseio"
+    },
+    {
+      "name": "Infinity Hedge Fund",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "https://app.infinityhedgefund.com/#/dashboard"
+    },
+    {
+      "name": "Common Wealth",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "https://app.wlth.xyz/"
+    },
+    {
+      "name": "BeeBase",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "BeeBase_xyz"
+    },
+    {
+      "name": "Pinto",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "https://pinto.money/"
+    },
+    {
+      "name": "GMS Vaults",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "GMSVaults"
+    },
+    {
+      "name": "Vader AI",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "https://www.vaderai.ai/"
+    },
+    {
+      "name": "HackenAI",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "https://hai.hacken.io"
+    },
+    {
+      "name": "aixCB",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.369Z",
+      "url": "https://aixcbcapital.com/"
+    },
+    {
+      "name": "MONSTRO",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://v2.monstro.fun"
+    },
+    {
+      "name": "ParagonsDAO",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://app.paragonsdao.com"
+    },
+    {
+      "name": "Kaito",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://yaps.kaito.ai"
+    },
+    {
+      "name": "Plaza Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "plaza_finance"
+    },
+    {
+      "name": "Sypher Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "Sypher_Fi"
+    },
+    {
+      "name": "JUMPBOX.ETH",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://www.jumpbox.tech/"
+    },
+    {
+      "name": "Streme",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://streme.fun"
+    },
+    {
+      "name": "PumpBase",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "PumpBase_HQ"
+    },
+    {
+      "name": "Mr. Lightspeed Creator Coin",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://zora.co/mr_lightspeed"
+    },
+    {
+      "name": "Donut",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://www.glazecorp.io/"
+    },
+    {
+      "name": "NICKEL",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://nickel.supply/"
+    },
+    {
+      "name": "Pizza City",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://pizzacity.app"
+    },
+    {
+      "name": "FLock.io",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://www.flock.io/"
+    },
+    {
+      "name": "Owockibot",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://staking.owockibot.xyz/"
+    },
+    {
+      "name": "PumpClaw",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": " "
+    },
+    {
+      "name": "MineBean",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.370Z",
+      "url": "https://minebean.com/"
+    },
+    {
+      "name": "Solvr",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.371Z",
+      "url": "https://solvrbot.com"
+    },
+    {
+      "name": "MineLoot",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.371Z",
+      "url": "https://www.mineloot.app/"
+    },
+    {
+      "name": "Reppo",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.371Z",
+      "url": "https://reppo.xyz/"
+    },
+    {
+      "name": "Xeno Money",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.371Z",
+      "url": "https://app.xeno.money/"
+    },
+    {
+      "name": "Nation Wars Base",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.371Z",
+      "url": " "
+    },
+    {
+      "name": "NARA Protocol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-13T20:00:44.371Z",
+      "url": " "
+    }
+  ],
+  "seen": [
+    "Aerodrome Slipstream",
+    "Aerodrome V1",
+    "Avantis",
+    "Aerodrome Ignition",
+    "Anthias Labs",
+    "T RIZE",
+    "Hydrex Integral",
+    "Sport.fun",
+    "SoSoValue Basis",
+    "Seamless Vaults",
+    "flaunch",
+    "friend.tech V1",
+    "iAero Protocol",
+    "Hydrex Omni",
+    "Ethos Network",
+    "Alien Base V3",
+    "Sprinter",
+    "Seamless V1",
+    "Extra Finance Vaults",
+    "Trueo",
+    "YieldSeeker",
+    "Keeta Bridge",
+    "BaseSwap V2",
+    "Limitless Exchange",
+    "RocketSwap Base",
+    "Muscadine",
+    "Degen Bridge",
+    "Treble V2",
+    "Alien Base V2",
+    "Snowbl Capital",
+    "Scale",
+    "Ethos Markets",
+    "BaseVol",
+    "RAGE Protocol",
+    "Bass Exchange",
+    "8lends",
+    "Thirdfy",
+    "Peer",
+    "Treble Spot",
+    "GammaSwap Yield Tokens",
+    "g8keep",
+    "SharkSwap DEX",
+    "Bullbit PERP DEX",
+    "InfinityPools",
+    "ZebraDAO",
+    "Tizi",
+    "Superfund",
+    "Flat Money V1",
+    "SwapBased AMM",
+    "Virtus Protocol CL",
+    "Autopilot",
+    "Infusion",
+    "BunnySwap",
+    "CookieBase Farm",
+    "SwapBased Concentrated Liquidity",
+    "DegenPrime",
+    "BaseX",
+    "Andromeada",
+    "time.fun",
+    "Yield Millionaire",
+    "O.LAB",
+    "100XSOON",
+    "Lunarbase",
+    "CallPut",
+    "Fren Pets",
+    "Sova",
+    "KRAV",
+    "Deli Swap",
+    "Throne V3",
+    "Milk Finance",
+    "Veil Cash",
+    "Xena Finance",
+    "Alien Base Area51",
+    "Chainchat",
+    "SwapBased Perp",
+    "scoop",
+    "Synthswap V2",
+    "Words.art",
+    "Unblock Equity",
+    "SongTech",
+    "Shinjo",
+    "toupee.tech",
+    "Alkimiya",
+    "SharesGram",
+    "Soswap",
+    "Ripe Protocol",
+    "StableBase",
+    "TagDotTech",
+    "Detto Finance",
+    "INDX",
+    "Frensly",
+    "Simps",
+    "Pike V2",
+    "Synthswap V3",
+    "CitadelSwap",
+    "AlfaFrens",
+    "Ducky City SOFI",
+    "Precog Market",
+    "Phi",
+    "Mellow",
+    "Run Money",
+    "DIP Exchange",
+    "Baso Finance",
+    "Alien Base StableSwap",
+    "Drawtech",
+    "BaseX Finance",
+    "Voodoo Trade Base",
+    "CLAMM",
+    "Votre",
+    "Anon Social",
+    "Energon DEX",
+    "Robots.Farm",
+    "Chedda Finance",
+    "Nano Swap",
+    "Glorb",
+    "BAS3D",
+    "Aerostrategy",
+    "boobs.finance",
+    "Hydrometer Finance",
+    "Synthswap Perps",
+    "Global Balanced Liquidity Index",
+    "Subunit",
+    "Autotronic",
+    "NOVIS",
+    "YieldLend",
+    "Nether.Fi",
+    "BWSWAP",
+    "Particles Money",
+    "MoonBase",
+    "Swapline V2",
+    "Aeria",
+    "Bagelswap",
+    "Vaquita Protocol",
+    "Clink",
+    "BaseFinance",
+    "Basin DAO",
+    "IceSwap",
+    "Spooky Base",
+    "Statix Farm",
+    "XBased",
+    "GFEX",
+    "BCraft",
+    "Throne V2",
+    "BaseYield",
+    "BasaFish",
+    "Phase",
+    "Hits4fun",
+    "sedge",
+    "FluxusFi",
+    "ChocoBase",
+    "Based Farm",
+    "Floe Labs",
+    "Virtus Protocol AMM",
+    "SquaDeFi",
+    "Wild Base",
+    "Torus",
+    "Redemption Finance",
+    "PlantBaseSwap",
+    "DeFO",
+    "Ace of Base",
+    "Bryan on Base",
+    "OhMyCrypt",
+    "Lucky38",
+    "Velox DEX",
+    "Size Lending",
+    "Base3D",
+    "Snail Finance",
+    "YFarmer",
+    "HyperSafe",
+    "ZenyDex",
+    "Defidash Agent",
+    "Flex Perpetuals",
+    "CookieBase Dex",
+    "LinkDeFi",
+    "Laari Finance",
+    "UncleSam Protocol",
+    "Intuition",
+    "BSX Exchange",
+    "OnionSwap",
+    "Stobix",
+    "Stakin",
+    "Magnate Finance",
+    "CoChilli",
+    "EDEBASE",
+    "Basetrade",
+    "Raccoon Finance",
+    "Basetasm Finance",
+    "FT33 DAO",
+    "NewThrone",
+    "Spirit Farm",
+    "Basemax",
+    "Pod Finance",
+    "Dragon Protocol",
+    "Infinity Hedge Fund",
+    "Common Wealth",
+    "BeeBase",
+    "Pinto",
+    "GMS Vaults",
+    "Vader AI",
+    "HackenAI",
+    "aixCB",
+    "MONSTRO",
+    "ParagonsDAO",
+    "Kaito",
+    "Plaza Finance",
+    "Sypher Finance",
+    "JUMPBOX.ETH",
+    "Streme",
+    "PumpBase",
+    "Mr. Lightspeed Creator Coin",
+    "Donut",
+    "NICKEL",
+    "Pizza City",
+    "FLock.io",
+    "Owockibot",
+    "PumpClaw",
+    "MineBean",
+    "Solvr",
+    "MineLoot",
+    "Reppo",
+    "Xeno Money",
+    "Nation Wars Base",
+    "NARA Protocol"
+  ]
+}
