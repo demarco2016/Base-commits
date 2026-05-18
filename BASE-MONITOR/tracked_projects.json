@@ -1337,6 +1337,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-05-13T20:00:44.371Z",
       "url": " "
+    },
+    {
+      "name": "Kerne",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-18T19:20:14.308Z",
+      "url": " "
     }
   ],
   "seen": [
@@ -1562,6 +1568,7 @@
     "Reppo",
     "Xeno Money",
     "Nation Wars Base",
-    "NARA Protocol"
+    "NARA Protocol",
+    "Kerne"
   ]
 }
