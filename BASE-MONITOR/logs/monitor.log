@@ -1470,3 +1470,9 @@
 [2026-05-19T14:27:50.173Z]   - Kerne ( )
 [2026-05-19T14:27:50.173Z] === Base Monitor Finished ===
 
+[2026-05-19T19:31:05.472Z] === Base Monitor Started ===
+[2026-05-19T19:31:05.475Z] Time: 2026-05-19T19:31:05.475Z
+[2026-05-19T19:31:05.732Z] Base latest block: 46214859
+[2026-05-19T19:33:31.225Z] Fetch error from https://api.llama.fi/protocols: Invalid JSON
+[2026-05-19T19:33:31.226Z] === Base Monitor Finished ===
+
