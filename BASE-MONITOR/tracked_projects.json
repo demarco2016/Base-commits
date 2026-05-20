@@ -1343,6 +1343,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-05-18T19:20:14.308Z",
       "url": " "
+    },
+    {
+      "name": "Venice VVV Staking",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-20T19:59:01.342Z",
+      "url": "https://venice.ai/"
     }
   ],
   "seen": [
@@ -1569,6 +1575,7 @@
     "Xeno Money",
     "Nation Wars Base",
     "NARA Protocol",
-    "Kerne"
+    "Kerne",
+    "Venice VVV Staking"
   ]
 }
