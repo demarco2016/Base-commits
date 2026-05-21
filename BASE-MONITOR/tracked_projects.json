@@ -1355,6 +1355,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-05-21T01:55:55.991Z",
       "url": " "
+    },
+    {
+      "name": "PRED",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-21T19:40:34.396Z",
+      "url": "https://www.pred.app/"
     }
   ],
   "seen": [
@@ -1583,6 +1589,7 @@
     "NARA Protocol",
     "Kerne",
     "Venice VVV Staking",
-    "DIEM Relay"
+    "DIEM Relay",
+    "PRED"
   ]
 }
