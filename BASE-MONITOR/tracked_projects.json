@@ -1361,6 +1361,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-05-21T19:40:34.396Z",
       "url": "https://www.pred.app/"
+    },
+    {
+      "name": "Virtuals Protocol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-22T01:57:38.157Z",
+      "url": "https://app.virtuals.io/referral?code=JsPKKT"
     }
   ],
   "seen": [
@@ -1590,6 +1596,7 @@
     "Kerne",
     "Venice VVV Staking",
     "DIEM Relay",
-    "PRED"
+    "PRED",
+    "Virtuals Protocol"
   ]
 }
