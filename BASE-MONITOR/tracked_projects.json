@@ -1367,6 +1367,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-05-22T01:57:38.157Z",
       "url": "https://app.virtuals.io/referral?code=JsPKKT"
+    },
+    {
+      "name": "ARMSys",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-26T01:53:09.910Z",
+      "url": " "
     }
   ],
   "seen": [
@@ -1597,6 +1603,7 @@
     "Venice VVV Staking",
     "DIEM Relay",
     "PRED",
-    "Virtuals Protocol"
+    "Virtuals Protocol",
+    "ARMSys"
   ]
 }
