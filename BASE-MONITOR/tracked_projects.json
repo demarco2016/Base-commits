@@ -1373,6 +1373,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-05-26T01:53:09.910Z",
       "url": " "
+    },
+    {
+      "name": "templ.fun",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-27T02:01:17.887Z",
+      "url": "https://templ.fun"
     }
   ],
   "seen": [
@@ -1604,6 +1610,7 @@
     "DIEM Relay",
     "PRED",
     "Virtuals Protocol",
-    "ARMSys"
+    "ARMSys",
+    "templ.fun"
   ]
 }
