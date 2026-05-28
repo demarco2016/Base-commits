@@ -1379,6 +1379,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-05-27T02:01:17.887Z",
       "url": "https://templ.fun"
+    },
+    {
+      "name": "Ryze Protocol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-05-28T20:00:42.500Z",
+      "url": "https://www.ryze.pro/"
     }
   ],
   "seen": [
@@ -1611,6 +1617,7 @@
     "PRED",
     "Virtuals Protocol",
     "ARMSys",
-    "templ.fun"
+    "templ.fun",
+    "Ryze Protocol"
   ]
 }
