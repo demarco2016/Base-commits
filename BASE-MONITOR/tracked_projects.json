@@ -1391,6 +1391,18 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-05-29T09:00:30.099Z",
       "url": " "
+    },
+    {
+      "name": "openOracle",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-06-01T21:19:05.432Z",
+      "url": "https://openoracle.org/"
+    },
+    {
+      "name": "ClaimRush",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-06-01T21:19:05.434Z",
+      "url": " "
     }
   ],
   "seen": [
@@ -1625,6 +1637,8 @@
     "ARMSys",
     "templ.fun",
     "Ryze Protocol",
-    "Kal Mydas"
+    "Kal Mydas",
+    "openOracle",
+    "ClaimRush"
   ]
 }
