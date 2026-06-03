@@ -1403,6 +1403,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-06-01T21:19:05.434Z",
       "url": " "
+    },
+    {
+      "name": "Venice",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-06-03T20:44:06.798Z",
+      "url": "https://venice.ai/"
     }
   ],
   "seen": [
@@ -1639,6 +1645,7 @@
     "Ryze Protocol",
     "Kal Mydas",
     "openOracle",
-    "ClaimRush"
+    "ClaimRush",
+    "Venice"
   ]
 }
