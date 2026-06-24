@@ -1415,6 +1415,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-06-10T02:00:51.511Z",
       "url": " "
+    },
+    {
+      "name": "Frgmnt",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-06-24T01:54:50.338Z",
+      "url": " "
     }
   ],
   "seen": [
@@ -1653,6 +1659,7 @@
     "openOracle",
     "ClaimRush",
     "Venice",
-    "Rotera"
+    "Rotera",
+    "Frgmnt"
   ]
 }
