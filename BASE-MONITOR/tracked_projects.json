@@ -1421,6 +1421,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-06-24T01:54:50.338Z",
       "url": " "
+    },
+    {
+      "name": "flooor.fun",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-06-27T01:53:21.509Z",
+      "url": "https://flooor.fun/"
     }
   ],
   "seen": [
@@ -1660,6 +1666,7 @@
     "ClaimRush",
     "Venice",
     "Rotera",
-    "Frgmnt"
+    "Frgmnt",
+    "flooor.fun"
   ]
 }
