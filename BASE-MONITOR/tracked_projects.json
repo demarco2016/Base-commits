@@ -1427,6 +1427,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-06-27T01:53:21.509Z",
       "url": "https://flooor.fun/"
+    },
+    {
+      "name": "Arcis Protocol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-06-30T01:58:48.660Z",
+      "url": " "
     }
   ],
   "seen": [
@@ -1667,6 +1673,7 @@
     "Venice",
     "Rotera",
     "Frgmnt",
-    "flooor.fun"
+    "flooor.fun",
+    "Arcis Protocol"
   ]
 }
