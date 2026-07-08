@@ -1433,6 +1433,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-06-30T01:58:48.660Z",
       "url": " "
+    },
+    {
+      "name": "Kaito Stake",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-07-08T08:02:52.369Z",
+      "url": "https://kaito.ai/stake"
     }
   ],
   "seen": [
@@ -1674,6 +1680,7 @@
     "Rotera",
     "Frgmnt",
     "flooor.fun",
-    "Arcis Protocol"
+    "Arcis Protocol",
+    "Kaito Stake"
   ]
 }
