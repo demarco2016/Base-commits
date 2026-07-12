@@ -1445,6 +1445,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-07-09T14:22:50.764Z",
       "url": "https://www.birchhill.io/"
+    },
+    {
+      "name": "Machima",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-07-12T01:19:27.004Z",
+      "url": "https://machima.ai/"
     }
   ],
   "seen": [
@@ -1688,6 +1694,7 @@
     "flooor.fun",
     "Arcis Protocol",
     "Kaito Stake",
-    "Birch Hill"
+    "Birch Hill",
+    "Machima"
   ]
 }
