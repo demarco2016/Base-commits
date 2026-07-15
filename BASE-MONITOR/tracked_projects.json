@@ -1451,6 +1451,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-07-12T01:19:27.004Z",
       "url": "https://machima.ai/"
+    },
+    {
+      "name": "Siloam",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-07-15T01:07:36.681Z",
+      "url": "SilverGlenProto"
     }
   ],
   "seen": [
@@ -1695,6 +1701,7 @@
     "Arcis Protocol",
     "Kaito Stake",
     "Birch Hill",
-    "Machima"
+    "Machima",
+    "Siloam"
   ]
 }
