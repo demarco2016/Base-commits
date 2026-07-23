@@ -1457,6 +1457,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-07-15T01:07:36.681Z",
       "url": "SilverGlenProto"
+    },
+    {
+      "name": "Morpho Midnight",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-07-23T01:23:32.152Z",
+      "url": "https://app.morpho.org"
     }
   ],
   "seen": [
@@ -1702,6 +1708,7 @@
     "Kaito Stake",
     "Birch Hill",
     "Machima",
-    "Siloam"
+    "Siloam",
+    "Morpho Midnight"
   ]
 }
