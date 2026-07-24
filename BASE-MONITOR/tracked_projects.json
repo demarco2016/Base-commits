@@ -1463,6 +1463,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-07-23T01:23:32.152Z",
       "url": "https://app.morpho.org"
+    },
+    {
+      "name": "BlazePhoenix",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-07-24T08:02:07.088Z",
+      "url": "blazephoenyx"
     }
   ],
   "seen": [
@@ -1709,6 +1715,7 @@
     "Birch Hill",
     "Machima",
     "Siloam",
-    "Morpho Midnight"
+    "Morpho Midnight",
+    "BlazePhoenix"
   ]
 }
