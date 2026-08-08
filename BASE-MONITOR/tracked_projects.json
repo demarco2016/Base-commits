@@ -1469,6 +1469,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-07-24T08:02:07.088Z",
       "url": "blazephoenyx"
+    },
+    {
+      "name": "dyield",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-08T00:39:23.882Z",
+      "url": "dyieldio"
     }
   ],
   "seen": [
@@ -1716,6 +1722,7 @@
     "Machima",
     "Siloam",
     "Morpho Midnight",
-    "BlazePhoenix"
+    "BlazePhoenix",
+    "dyield"
   ]
 }
