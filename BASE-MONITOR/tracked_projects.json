@@ -1475,6 +1475,18 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-08-08T00:39:23.882Z",
       "url": "dyieldio"
+    },
+    {
+      "name": "TayDex",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-11T06:41:35.724Z",
+      "url": "taydexfun"
+    },
+    {
+      "name": "EarnGrid",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-11T06:41:35.725Z",
+      "url": ""
     }
   ],
   "seen": [
@@ -1723,6 +1735,8 @@
     "Siloam",
     "Morpho Midnight",
     "BlazePhoenix",
-    "dyield"
+    "dyield",
+    "TayDex",
+    "EarnGrid"
   ]
 }
