@@ -1493,6 +1493,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-08-14T07:02:41.350Z",
       "url": "GILDerfinance"
+    },
+    {
+      "name": "DiceMoon",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-18T00:27:27.933Z",
+      "url": ""
     }
   ],
   "seen": [
@@ -1744,6 +1750,7 @@
     "dyield",
     "TayDex",
     "EarnGrid",
-    "GILDer"
+    "GILDer",
+    "DiceMoon"
   ]
 }
