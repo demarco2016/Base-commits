@@ -1517,6 +1517,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-08-20T00:28:20.249Z",
       "url": "bonker_wtf"
+    },
+    {
+      "name": "Sapien Vault",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-20T18:18:33.111Z",
+      "url": "https://vault.sapien.io"
     }
   ],
   "seen": [
@@ -1772,6 +1778,7 @@
     "DiceMoon",
     "Syntetika",
     "HRUSD",
-    "Bonker"
+    "Bonker",
+    "Sapien Vault"
   ]
 }
