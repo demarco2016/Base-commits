@@ -1499,6 +1499,24 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-08-18T00:27:27.933Z",
       "url": ""
+    },
+    {
+      "name": "Syntetika",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-20T00:28:20.248Z",
+      "url": "https://syntetika.io/"
+    },
+    {
+      "name": "HRUSD",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-20T00:28:20.249Z",
+      "url": "https://hyperoute.xyz/"
+    },
+    {
+      "name": "Bonker",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-20T00:28:20.249Z",
+      "url": "bonker_wtf"
     }
   ],
   "seen": [
@@ -1751,6 +1769,9 @@
     "TayDex",
     "EarnGrid",
     "GILDer",
-    "DiceMoon"
+    "DiceMoon",
+    "Syntetika",
+    "HRUSD",
+    "Bonker"
   ]
 }
