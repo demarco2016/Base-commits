@@ -1529,6 +1529,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-08-22T00:27:50.815Z",
       "url": "https://basedollar.org"
+    },
+    {
+      "name": "XO Bridge",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-26T19:26:58.065Z",
+      "url": "https://xo.market"
     }
   ],
   "seen": [
@@ -1786,6 +1792,7 @@
     "HRUSD",
     "Bonker",
     "Sapien Vault",
-    "Base Dollar"
+    "Base Dollar",
+    "XO Bridge"
   ]
 }
