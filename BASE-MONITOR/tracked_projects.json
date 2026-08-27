@@ -1535,6 +1535,18 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-08-26T19:26:58.065Z",
       "url": "https://xo.market"
+    },
+    {
+      "name": "Umia",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-27T05:17:03.086Z",
+      "url": "https://www.umia.finance"
+    },
+    {
+      "name": "AlfaClub",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-27T05:17:03.087Z",
+      "url": "https://alfaclub.app"
     }
   ],
   "seen": [
@@ -1793,6 +1805,8 @@
     "Bonker",
     "Sapien Vault",
     "Base Dollar",
-    "XO Bridge"
+    "XO Bridge",
+    "Umia",
+    "AlfaClub"
   ]
 }
