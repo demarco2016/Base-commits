@@ -1547,6 +1547,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-08-27T05:17:03.087Z",
       "url": "https://alfaclub.app"
+    },
+    {
+      "name": "ElfomoFi",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-08-28T01:49:07.762Z",
+      "url": "https://elfomo.fi/"
     }
   ],
   "seen": [
@@ -1807,6 +1813,7 @@
     "Base Dollar",
     "XO Bridge",
     "Umia",
-    "AlfaClub"
+    "AlfaClub",
+    "ElfomoFi"
   ]
 }
