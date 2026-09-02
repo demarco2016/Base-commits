@@ -1559,6 +1559,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-08-29T01:12:48.152Z",
       "url": "https://predictex.com"
+    },
+    {
+      "name": "Architect",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-09-02T20:10:43.572Z",
+      "url": "https://architect.systems/"
     }
   ],
   "seen": [
@@ -1821,6 +1827,7 @@
     "Umia",
     "AlfaClub",
     "ElfomoFi",
-    "PredictEX"
+    "PredictEX",
+    "Architect"
   ]
 }
