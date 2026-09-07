@@ -1565,6 +1565,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-09-02T20:10:43.572Z",
       "url": "https://architect.systems/"
+    },
+    {
+      "name": "Umbrae",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-09-07T20:50:40.600Z",
+      "url": "https://umbrae.io"
     }
   ],
   "seen": [
@@ -1828,6 +1834,7 @@
     "AlfaClub",
     "ElfomoFi",
     "PredictEX",
-    "Architect"
+    "Architect",
+    "Umbrae"
   ]
 }
