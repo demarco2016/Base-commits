@@ -1571,6 +1571,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-09-07T20:50:40.600Z",
       "url": "https://umbrae.io"
+    },
+    {
+      "name": "Ref Market",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-09-11T10:04:26.491Z",
+      "url": "ref_market"
     }
   ],
   "seen": [
@@ -1835,6 +1841,7 @@
     "ElfomoFi",
     "PredictEX",
     "Architect",
-    "Umbrae"
+    "Umbrae",
+    "Ref Market"
   ]
 }
