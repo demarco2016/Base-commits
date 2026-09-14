@@ -1577,6 +1577,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-09-11T10:04:26.491Z",
       "url": "ref_market"
+    },
+    {
+      "name": "Hot Take",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-09-14T21:05:30.217Z",
+      "url": ""
     }
   ],
   "seen": [
@@ -1842,6 +1848,7 @@
     "PredictEX",
     "Architect",
     "Umbrae",
-    "Ref Market"
+    "Ref Market",
+    "Hot Take"
   ]
 }
