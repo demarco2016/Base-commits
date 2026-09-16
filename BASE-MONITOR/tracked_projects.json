@@ -1583,6 +1583,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-09-14T21:05:30.217Z",
       "url": ""
+    },
+    {
+      "name": "Stochastic Finance",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-09-16T01:54:04.951Z",
+      "url": "stochastic_fin"
     }
   ],
   "seen": [
@@ -1849,6 +1855,7 @@
     "Architect",
     "Umbrae",
     "Ref Market",
-    "Hot Take"
+    "Hot Take",
+    "Stochastic Finance"
   ]
 }
