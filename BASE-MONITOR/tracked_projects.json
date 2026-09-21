@@ -1595,6 +1595,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-09-21T01:53:54.037Z",
       "url": "https://antseed.com/"
+    },
+    {
+      "name": "Capminal",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-09-21T21:16:47.516Z",
+      "url": "capminal"
     }
   ],
   "seen": [
@@ -1863,6 +1869,7 @@
     "Ref Market",
     "Hot Take",
     "Stochastic Finance",
-    "Antseed"
+    "Antseed",
+    "Capminal"
   ]
 }
