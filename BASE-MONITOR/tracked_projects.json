@@ -1589,6 +1589,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-09-16T01:54:04.951Z",
       "url": "stochastic_fin"
+    },
+    {
+      "name": "Antseed",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-09-21T01:53:54.037Z",
+      "url": "https://antseed.com/"
     }
   ],
   "seen": [
@@ -1856,6 +1862,7 @@
     "Umbrae",
     "Ref Market",
     "Hot Take",
-    "Stochastic Finance"
+    "Stochastic Finance",
+    "Antseed"
   ]
 }
