@@ -1601,6 +1601,18 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-09-21T21:16:47.516Z",
       "url": "capminal"
+    },
+    {
+      "name": "Veranta",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-09-22T10:25:28.100Z",
+      "url": "https://www.veranta.xyz/"
+    },
+    {
+      "name": "Charity Billionaire",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-09-22T10:25:28.103Z",
+      "url": ""
     }
   ],
   "seen": [
@@ -1870,6 +1882,8 @@
     "Hot Take",
     "Stochastic Finance",
     "Antseed",
-    "Capminal"
+    "Capminal",
+    "Veranta",
+    "Charity Billionaire"
   ]
 }
