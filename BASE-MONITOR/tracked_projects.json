@@ -1613,6 +1613,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-09-22T10:25:28.103Z",
       "url": ""
+    },
+    {
+      "name": "Quantillon Protocol",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-09-29T11:39:26.950Z",
+      "url": "QuantillonLabs"
     }
   ],
   "seen": [
@@ -1884,6 +1890,7 @@
     "Antseed",
     "Capminal",
     "Veranta",
-    "Charity Billionaire"
+    "Charity Billionaire",
+    "Quantillon Protocol"
   ]
 }
