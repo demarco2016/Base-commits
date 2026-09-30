@@ -1619,6 +1619,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-09-29T11:39:26.950Z",
       "url": "QuantillonLabs"
+    },
+    {
+      "name": "Ensify",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-09-30T17:04:06.544Z",
+      "url": "EnsifyVault"
     }
   ],
   "seen": [
@@ -1891,6 +1897,7 @@
     "Capminal",
     "Veranta",
     "Charity Billionaire",
-    "Quantillon Protocol"
+    "Quantillon Protocol",
+    "Ensify"
   ]
 }
