@@ -1,12 +1,13 @@
 {
   "name": "base-monitor",
   "version": "1.0.0",
-  "description": "Monitor Base ecosystem for new projects, airdrops, and activity",
+  "description": "Read-only Base block and DefiLlama protocol monitor",
   "main": "monitor.js",
   "scripts": {
-    "start": "node monitor.js"
+    "start": "node monitor.js",
+    "test": "node --test"
   },
-  "dependencies": {
-    "dotenv": "^16.4.7"
+  "engines": {
+    "node": ">=22"
   }
 }

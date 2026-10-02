@@ -1,0 +1,5 @@
+node_modules/
+.env
+BASE-MONITOR/.local/
+BASE-MONITOR/report.txt
+BASE-MONITOR/logs/
