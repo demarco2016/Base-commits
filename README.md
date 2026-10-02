@@ -1,41 +1,23 @@
-# Base-commits
+# Base public-data monitor
 
-> Base ecosystem monitor & contribution hub — tracking network activity, new projects, and airdrop opportunities.
+A read-only command-line monitor queries the Base mainnet RPC for the latest block and DefiLlama for protocol entries whose chain list contains Base. No wallet, private key, transaction, or paid service is required. A protocol listing is not a token safety check or an airdrop recommendation.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/demarco2016/Base-commits?style=flat&label=Updated)](https://github.com/demarco2016/Base-commits/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/demarco2016/Base-commits?style=flat)](https://github.com/demarco2016/Base-commits)
-[![License](https://img.shields.io/github/license/demarco2016/Base-commits?style=flat)](LICENSE)
-[![X Follow](https://img.shields.io/twitter/follow/Demarco639?style=social&label=Follow)](https://x.com/Demarco639)
+## Run and test
 
----
+Requires Node.js 22+. No npm dependencies are required.
 
-## Features
-
-| Feature | Description |
-|---------|-------------|
-| **Block tracking** | Latest Base mainnet block number |
-| **New projects** | Detects new protocols building on Base |
-| **Airdrop alerts** | Flags potential airdrop opportunities |
-| **Auto-run** | Workflow executes every 6 hours via GitHub Actions |
-
-## Quick Start
-
-```bash
+```sh
 cd BASE-MONITOR
-npm install
-npm start
+npm test
+node monitor.js
 ```
 
-Results saved in `BASE-MONITOR/logs/` and `BASE-MONITOR/tracked_projects.json`.
+Requests time out after 15 seconds. HTTP errors, RPC errors, malformed blocks, and invalid protocol lists fail explicitly with exit code 1. A source can succeed while another fails; the overall result remains a failure.
 
-No configuration needed — the workflow runs automatically every 6 hours.
+## Outputs and automation
 
-## Links
+Local protocol snapshots are stored in ignored `.local/tracked_projects.json`. A name new to that local dataset is not necessarily a newly launched project. Public sources can be incomplete, delayed, or unavailable.
 
-- [Base Blog](https://blog.base.dev/)
-- [Base Network](https://base.org)
-- [X: @Demarco639](https://x.com/Demarco639)
+Scheduled runs upload reports as seven-day Actions artifacts. They do not commit runtime logs, rewrite project files, or generate contribution commits. Previous tracked reports remain in history for transparency; they do not establish software development or airdrop eligibility.
 
----
-
-<sub>Maintained by [@demarco2016](https://github.com/demarco2016) — contributions welcome.</sub>
+CI executes local regression tests only; scheduled/manual runs additionally read live public sources.
