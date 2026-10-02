@@ -1625,6 +1625,12 @@
       "source": "https://api.llama.fi/protocols",
       "discovered": "2026-09-30T17:04:06.544Z",
       "url": "EnsifyVault"
+    },
+    {
+      "name": "TRUSS LP",
+      "source": "https://api.llama.fi/protocols",
+      "discovered": "2026-10-02T02:44:09.026Z",
+      "url": "trusslp"
     }
   ],
   "seen": [
@@ -1898,6 +1904,7 @@
     "Veranta",
     "Charity Billionaire",
     "Quantillon Protocol",
-    "Ensify"
+    "Ensify",
+    "TRUSS LP"
   ]
 }
